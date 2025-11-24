@@ -1,6 +1,36 @@
-<p align="center">
-    <img src="BlogSpace.png" alt="BlogSpace-homeScreen"/>
-</p>
+## 🖼️ Screenshots
+
+<details>
+<summary>🏠 Home Page & Doctor Listing</summary>
+<br>
+<img src="./screenshots/home.png" alt="Home Page" width="100%"/>
+<img src="./screenshots/doctors.png" alt="Doctor Listing" width="100%"/>
+</details>
+
+<details>
+<summary>📅 Appointment Booking & Payment</summary>
+<br>
+<img src="./screenshots/appointment-booking.png" alt="Appointment Booking" width="100%"/>
+<img src="./screenshots/payment.png" alt="Payment Gateway" width="100%"/>
+</details>
+
+<details>
+<summary>🔐 Admin Dashboard</summary>
+<br>
+<img src="./screenshots/admin-dashboard.png" alt="Admin Dashboard" width="100%"/>
+</details>
+
+<details>
+<summary>👨‍⚕️ Doctor Portal</summary>
+<br>
+<img src="./screenshots/doctor-portal.png" alt="Doctor Portal" width="100%"/>
+</details>
+
+<details>
+<summary>👤 User Profile</summary>
+<br>
+<img src="./screenshots/user-profile.png" alt="User Profile" width="100%"/>
+</details>
 
 <h1 align="center">
   PRESCRIPTO
