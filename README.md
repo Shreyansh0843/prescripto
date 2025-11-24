@@ -9,25 +9,25 @@
 <details>
 <summary>📅 Appointment Booking</summary>
 <br>
-<img src="./prescripto-image/image2" alt="Appointment Booking" width="100%"/>
+<img src="https://github.com/Shreyansh0843/prescripto/blob/main/prescripto-image/image2.png" alt="Appointment Booking" width="100%"/>
 </details>
 
 <details>
 <summary>About Us Page</summary>
 <br>
-<img src="./prescripto-image/image3" alt="Admin Dashboard" width="100%"/>
+<img src="https://github.com/Shreyansh0843/prescripto/blob/main/prescripto-image/image3.png" alt="Admin Dashboard" width="100%"/>
 </details>
 
 <details>
 <summary>👨‍⚕️ Appointments Booked</summary>
 <br>
-<img src="./prescripto-image/image4" alt="Doctor Portal" width="100%"/>
+<img src="https://github.com/Shreyansh0843/prescripto/blob/main/prescripto-image/image4.png" alt="Doctor Portal" width="100%"/>
 </details>
 
 <details>
 <summary>👤 Admin Dashboard</summary>
 <br>
-<img src="./prescripto-image/image5" alt="User Profile" width="100%"/>
+<img src="https://github.com/Shreyansh0843/prescripto/blob/main/prescripto-image/image5.png" alt="User Profile" width="100%"/>
 </details>
 
 <h1 align="center">
