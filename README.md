@@ -1,35 +1,33 @@
 ## 🖼️ Screenshots
 
 <details>
-<summary>🏠 Home Page & Doctor Listing</summary>
+<summary>🏠 Home Page</summary>
 <br>
-<img src="./screenshots/home.png" alt="Home Page" width="100%"/>
-<img src="./screenshots/doctors.png" alt="Doctor Listing" width="100%"/>
+<img src="./prescripto-image/image1" alt="Home Page" width="100%"/>
 </details>
 
 <details>
-<summary>📅 Appointment Booking & Payment</summary>
+<summary>📅 Appointment Booking</summary>
 <br>
-<img src="./screenshots/appointment-booking.png" alt="Appointment Booking" width="100%"/>
-<img src="./screenshots/payment.png" alt="Payment Gateway" width="100%"/>
+<img src="./prescripto-image/image2" alt="Appointment Booking" width="100%"/>
 </details>
 
 <details>
-<summary>🔐 Admin Dashboard</summary>
+<summary>About Us Page</summary>
 <br>
-<img src="./screenshots/admin-dashboard.png" alt="Admin Dashboard" width="100%"/>
+<img src="./prescripto-image/image3" alt="Admin Dashboard" width="100%"/>
 </details>
 
 <details>
-<summary>👨‍⚕️ Doctor Portal</summary>
+<summary>👨‍⚕️ Appointments Booked</summary>
 <br>
-<img src="./screenshots/doctor-portal.png" alt="Doctor Portal" width="100%"/>
+<img src="./prescripto-image/image4" alt="Doctor Portal" width="100%"/>
 </details>
 
 <details>
-<summary>👤 User Profile</summary>
+<summary>👤 Admin Dashboard</summary>
 <br>
-<img src="./screenshots/user-profile.png" alt="User Profile" width="100%"/>
+<img src="./prescripto-image/image5" alt="User Profile" width="100%"/>
 </details>
 
 <h1 align="center">
