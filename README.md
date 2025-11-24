@@ -3,7 +3,7 @@
 <details>
 <summary>🏠 Home Page</summary>
 <br>
-<img src="prescripto-image/image1" alt="Home Page" width="100%"/>
+<img src="https://github.com/Shreyansh0843/prescripto/blob/main/prescripto-image/image1.png" alt="Home Page" width="100%"/>
 </details>
 
 <details>
