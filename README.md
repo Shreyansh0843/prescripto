@@ -13,7 +13,7 @@
 </details>
 
 <details>
-<summary>About Us Page</summary>
+<summary>👤 About Us Page</summary>
 <br>
 <img src="https://github.com/Shreyansh0843/prescripto/blob/main/prescripto-image/image3.png" alt="Admin Dashboard" width="100%"/>
 </details>
